@@ -1,0 +1,10 @@
+# Ignore build directory
+/build/
+
+# Ignore object files
+*.o
+
+# Editor/OS-specific files
+.DS_Store
+*~
+.vscode
