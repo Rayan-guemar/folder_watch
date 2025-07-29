@@ -1,5 +1,5 @@
-#ifndef UTILS
-#define UTILS
+#ifndef UTILS_H
+#define UTILS_H
 
 void add_array(void** _array, int* _array_length, void* _el, int _el_size);
 

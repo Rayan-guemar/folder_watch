@@ -1,5 +1,5 @@
-#ifndef FOLDER_INFO
-#define FOLDER_INFO
+#ifndef FOLDER_INFO_H
+#define FOLDER_INFO_H
 
 struct folder_info {
     char* name;
